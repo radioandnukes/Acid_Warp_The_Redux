@@ -56,11 +56,11 @@ Now upgraded for 2025, running on GPUs that can draw a billion triangles while y
 
 1. Install dependencies:
     ```bash
-    pip install glfw PyOpenGL
+    pip install glfw PyOpenGL PyOpenGL-accelerate numpy
     ```
 2. Run it:
     ```bash
-    python acid_warp_gl.py
+    python acid_warp_the_redux.py
     ```
 
 Make sure you have a GPU capable of OpenGL 3.3 or higher. If you’re running this on a 486 with a Trident VGA card… uh, good luck.
