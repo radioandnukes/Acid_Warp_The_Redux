@@ -85,8 +85,7 @@ Now you can relive your **acid warp childhood** while questioning why the 90s th
 
 ## License
 
-MIT License.  
-Feel free to fork, remix, and blast it on your next rave’s big screen.
+IDGAF Licence: Means I really don't give a f**k i made this turd with AI, so feel free to explode it!
 
 ---
 
